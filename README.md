@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**elisemoe/elisemoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Elise! 
 
-Here are some ideas to get you started:
+💖 &nbsp;  I'm Director of Programs on the GitHub Education team  
+🌈 &nbsp;  trying to make development more social and inclusive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning:  
+🌱 &nbsp;   about academic OPSOs, contribution ladders, and mentorship models within OSS  
+🌍 &nbsp;  about managing across cross-cultural teams  
+🪵 &nbsp;  about how to carve wooden spoons 
+
+I'm currently reading:  
+📚 &nbsp;  Small Is Beautiful: Economics as if People Mattered (by E.F. Schumacher)  
+🔮 &nbsp;  The Last Lecture (by Randy Pausch) 
+
+Ask me about:  
+🪩 &nbsp;  community building  
+🤓 &nbsp;  behavioral economics   
+🏔️ &nbsp;  my never ending quest to climb mountains
+
+
+Get in touch:  
+💌 &nbsp;  if you have feedback about GitHub Education, building a sustainable open source ecosystem, or mentorship models within OSS, send me a DM on Twitter – I'd love to chat.  
