@@ -7,7 +7,7 @@ Hi, I'm Elise!
 
 I’m currently learning:  
 🌱 &nbsp;   about academic OPSOs, contribution ladders, and mentorship models within OSS  
-🌍 &nbsp;  about managing across cross-cultural teams  
+🌍 &nbsp;  about managing cross-cultural teams  
 🪵 &nbsp;  and how to carve wooden spoons 
 
 I'm currently reading:  
