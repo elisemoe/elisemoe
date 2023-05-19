@@ -2,7 +2,7 @@
 
 Hi, I'm Elise! 
 
-💖 &nbsp;  I'm Director of Programs on the GitHub Education team  
+💖 &nbsp;  I'm Director of Programs on the [GitHub Education](https://education.github.com/) team  
 🌈 &nbsp;  trying to make development more social and inclusive
 
 I’m currently learning:  
@@ -21,4 +21,4 @@ Ask me about:
 
 
 Get in touch:  
-💌 &nbsp;  if you have feedback about GitHub Education, building a sustainable open source ecosystem, or mentorship models within OSS, send me a DM on Twitter – I'd love to chat.  
+💌 &nbsp;  if you have feedback about GitHub Education, building a sustainable open source ecosystem, or mentorship models within OSS, send me a message on Twitter or LinkedIn – I'd love to chat.  
