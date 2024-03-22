@@ -11,7 +11,7 @@ I’m currently learning:
 🪵 &nbsp;  and how to carve wooden spoons 
 
 I'm currently reading:  
-📚 &nbsp;  SSuch a Fun Age (by Kiley Reid)
+📚 &nbsp;  Such a Fun Age (by Kiley Reid) <br>
 🔮 &nbsp;  The Last Lecture (by Randy Pausch) 
 
 Ask me about:  
