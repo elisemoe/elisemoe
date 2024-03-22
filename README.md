@@ -11,7 +11,7 @@ I’m currently learning:
 🪵 &nbsp;  and how to carve wooden spoons 
 
 I'm currently reading:  
-📚 &nbsp;  Small Is Beautiful: Economics as if People Mattered (by E.F. Schumacher)  
+📚 &nbsp;  SSuch a Fun Age (by Kiley Reid)
 🔮 &nbsp;  The Last Lecture (by Randy Pausch) 
 
 Ask me about:  
